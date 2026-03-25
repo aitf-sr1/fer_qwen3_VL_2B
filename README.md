@@ -50,7 +50,7 @@ For auto-labeling, this project uses GPT-4o mini.
 Run the fine-tuning process:
 
 ```
-finetune.py
+finetuning.ipynb
 ```
 
 Ensure that the dataset path is set correctly in the `.env` file and all dependencies are installed.
@@ -60,7 +60,7 @@ Ensure that the dataset path is set correctly in the `.env` file and all depende
 To evaluate the model:
 
 ```
-evaluate.py
+evaluasi.ipynb
 ```
 
 ## Notes
@@ -70,8 +70,8 @@ This program is designed to run locally for fine-tuning. Ensure that your system
 ## Project Structure
 
 ```
-preprocessing
-training
+preprocessin
+auto-labeling 
+fine-tuning
 evaluation
-notebooks
 ```
