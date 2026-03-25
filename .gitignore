@@ -1,0 +1,20 @@
+# ignore dataset yang sudah di balancing
+hasil-balancing-data/
+hasil-balancing-data2/
+hasil-balancing-data3/
+
+# ignore hasil auto label dari gpt
+hasil-auto-label/
+
+# ignore API key dan path yang bersifat pribadi
+.env
+
+# ignore dataset asli
+Dataset/
+
+# ignore hasil fine-tuning
+hasil-fine-tune/
+
+# ignore hasil evaluasi
+hasil-evaluasi/
+
