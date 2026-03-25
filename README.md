@@ -1,4 +1,4 @@
-# Project Title
+# QWEN 3-VL 2B
 
 This project focuses on fine-tuning a Vision-Language Model (VLM) using Qwen3-VL (2B parameters) on a custom dataset.
 
