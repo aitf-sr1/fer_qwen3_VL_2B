@@ -18,3 +18,6 @@ hasil-fine-tune/
 # ignore hasil evaluasi
 hasil-evaluasi/
 
+# ignore unsloth_cache
+unsloth_compiled_cache/
+
